@@ -1,0 +1,20 @@
+{
+	"author": "Maurizio NARDON",
+	"name": "ivascor",
+	"version": "0.0.1",
+	"description": "VAT spin-off",
+	"main": "ivascor",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nardy70/ivascor"
+	},
+	"keywords": [
+		"vat",
+		"spin-off",
+		"finance"
+	],
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
