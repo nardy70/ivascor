@@ -1,3 +1,4 @@
-Function for VAT Spin-off.
-Use:	var ivascor = require("ivascore"); 
-	ivascor.ivascor(tot, iva);
+Function for VAT Spin-off.<br>
+Use:<br>
+var ivascor = require("ivascore");<br>
+ivascor.ivascor(tot, iva);
